@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\bin\Debug\netcoreapp3.1\Tuple_Demo.exe
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\bin\Debug\netcoreapp3.1\Tuple_Demo.deps.json
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\bin\Debug\netcoreapp3.1\Tuple_Demo.runtimeconfig.json
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\bin\Debug\netcoreapp3.1\Tuple_Demo.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\bin\Debug\netcoreapp3.1\Tuple_Demo.dll
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\bin\Debug\netcoreapp3.1\Tuple_Demo.pdb
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\obj\Debug\netcoreapp3.1\Tuple_Demo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\obj\Debug\netcoreapp3.1\Tuple_Demo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\obj\Debug\netcoreapp3.1\Tuple_Demo.AssemblyInfo.cs
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\obj\Debug\netcoreapp3.1\Tuple_Demo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\obj\Debug\netcoreapp3.1\Tuple_Demo.dll
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\obj\Debug\netcoreapp3.1\Tuple_Demo.pdb
+C:\Users\admin\Desktop\Main\Project\Practice Projrct\DotNetCore\Tuple_Demo\Tuple_Demo\obj\Debug\netcoreapp3.1\Tuple_Demo.genruntimeconfig.cache
